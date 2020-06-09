@@ -1,0 +1,12 @@
+{
+  "development": {
+    "username": "pg_admin",
+    "password": "pg_admin",
+    "database": "hems",
+    "host": "hems-dev.cq0hdxeuhos7.ap-southeast-1.rds.amazonaws.com",
+    "dialect": "postgres",
+	"port": 5432,
+    "operatorsAliases": false,
+	"seederStorageTableName": "sequelizeData"
+  }
+}
